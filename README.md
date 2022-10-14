@@ -1,1 +1,1 @@
-# gold-price-analysis
+# GOLD PRICE ANALYSIS
