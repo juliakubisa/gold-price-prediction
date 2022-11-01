@@ -1,4 +1,4 @@
-# GOLD PRICE ANALYSIS
+# GOLD PRICE PREDICTION
 :blue_book: This project was a part of my thesis bachelor thesis: *What moves the gold price? An analysis of gold market and short-term forecasting.*
 
 :orange_book: This project is an attempt to expand the previous studies by analyzing and forecasting the gold price based on the most recent data. An ARIMA model was applied due to its wide application in econometrics and good fit for various time series types, including financial data. The main goal was to correctly estimate values in the 3 months period. 
